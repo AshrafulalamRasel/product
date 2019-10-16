@@ -44,5 +44,9 @@ public class ProductBazer {
         System.out.println("ProductCode Is:"+productCode);
         System.out.println("Product Unite Price Is:"+productUnitPrice);
         System.out.println("Product Quality:"+quality);
+        
+        System.out.println("dfgdsdsf");
     }
+    
+    
 }

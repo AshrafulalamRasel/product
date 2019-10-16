@@ -27,6 +27,7 @@ public class Product {
         pba.setQuality(quality);
         pba.productResult();
         pba.calculationProductPrice();
+        System.out.println("hi");
         
     }
     
